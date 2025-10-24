@@ -1,4 +1,5 @@
-import LandingPage from "@/Component/Landing";
+import LandingPage from "@/component/Landing";
+
 
 
 
@@ -6,7 +7,7 @@ export default function Home() {
   return (
     <>
     
-        <LandingPage />
+        <LandingPage/>
     </>
   );
 }
