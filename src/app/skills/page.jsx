@@ -1,6 +1,13 @@
-export default function Skills(){
-    return(
+import Skills from "../../component/Skills";
+
+export default function SkillPage() {
+    return (
         <>
+
+
+            <Skills />
+
+
         </>
     )
 }
